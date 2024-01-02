@@ -613,4 +613,7 @@ footer {
   .input-field {
     width: 100%;
   }
+  .scroll-icon-box {
+    display: none;
+  }
 }
