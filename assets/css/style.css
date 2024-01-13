@@ -217,6 +217,10 @@ nav {
 .icon:hover {
   color: var(--first-color);
 }
+
+.icon > a {
+  color: inherit;
+}
 /* ----- FEATURED IMAGE BOX ----- */
 .featured-image {
   display: flex;
