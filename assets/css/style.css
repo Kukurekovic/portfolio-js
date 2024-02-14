@@ -8,15 +8,15 @@
 
   --text-color-second: rgb(68, 68, 68);
   /*--text-color-third: rgb(30, 159, 171);*/
-  --text-color-third: #3a6b35;
+  --text-color-third: #2e865f;
 
   /*--first-color: rgb(110, 87, 224);*/
-  --first-color: #e3b448;
-  --first-color-hover: #bd973d;
+  --first-color: #bd973d;
+  --first-color-hover: #f7dc6f;
 
   /*--second-color: rgb(0, 201, 255);*/
-  --second-color: #cbd18f;
-  --third-color: rgb(192, 166, 49);
+  --second-color: #757575;
+  --third-color: #964b00;
   --first-shadow-color: rgba(0, 0, 0, 0.1);
 }
 
