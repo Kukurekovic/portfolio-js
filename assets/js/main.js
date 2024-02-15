@@ -40,7 +40,7 @@ let typingEffect = new Typed(".typedText", {
 const sr = ScrollReveal({
   origin: "top",
   distance: "80px",
-  duration: 2000,
+  duration: 1900,
   reset: true,
 });
 /* -- HOME -- */

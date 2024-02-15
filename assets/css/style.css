@@ -7,15 +7,15 @@
   --color-white: rgb(255, 255, 255);
 
   --text-color-second: rgb(68, 68, 68);
-  /*--text-color-third: rgb(30, 159, 171);*/
-  --text-color-third: #2e865f;
+  /*--text-color-third: ;*/
+  --text-color-third: #ea3f45;
 
   /*--first-color: rgb(110, 87, 224);*/
-  --first-color: #bd973d;
+  --first-color: #235789;
   --first-color-hover: #f7dc6f;
 
   /*--second-color: rgb(0, 201, 255);*/
-  --second-color: #757575;
+  --second-color: #153249;
   --third-color: #964b00;
   --first-shadow-color: rgba(0, 0, 0, 0.1);
 }
@@ -373,7 +373,7 @@ h3 {
 }
 .project-box > i {
   font-size: 50px;
-  color: #3a6b35;
+  color: #235789;
   margin-bottom: 25px;
 }
 .project-box label {
@@ -478,7 +478,7 @@ textarea {
   color: var(--color-white);
 }
 .form-button > .btn:hover {
-  background: #3a6b35;
+  background: #235789;
 }
 .form-button i {
   font-size: 18px;
